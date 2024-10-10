@@ -1,1 +1,6 @@
-// Esto hace cosas
+// Este fichero tiene información de un programa muy complejo
+
+clase main {
+	int=0
+	while (i<5)
+		console.log("Hola caracola.")
