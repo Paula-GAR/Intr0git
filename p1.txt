@@ -4,3 +4,4 @@ clase main {
 	int=0
 	while (i<5)
 		console.log("Hola caracola.")
+Experimento en el que la puedes estar liando parda.
