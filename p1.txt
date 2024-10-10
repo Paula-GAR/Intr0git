@@ -5,3 +5,4 @@ clase main {
 	while (i<5)
 		console.log("Hola caracola.")
 Experimento en el que la puedes estar liando parda.
+string nombre = PAU
