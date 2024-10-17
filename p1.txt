@@ -6,3 +6,4 @@ clase main {
 		console.log("Hola caracola.")
 Experimento en el que la puedes estar liando parda.
 string nombre = PAU
+esto es un cambio que hago
